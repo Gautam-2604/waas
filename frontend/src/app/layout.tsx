@@ -5,6 +5,7 @@ import { Appbar } from "./components/Appbar";
 import { Providers } from "./providers";
 import { Hero } from "./components/Hero";
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
