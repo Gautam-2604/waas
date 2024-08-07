@@ -24,7 +24,6 @@ export default function RootLayout({
       <body className={inter.className}>
         <Providers>
         <Appbar />
-        <Hero />
         {children}
         </Providers>
       
