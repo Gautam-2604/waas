@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@prisma/client": "^5.18.0",
-    "@solana/web3.js": "^1.95.2"
+    "@solana/web3.js": "^1.95.2",
+    "prisma": "^5.18.0"
   }
 }
